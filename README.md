@@ -16,3 +16,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 7. HTML do AppComponent
 8. Instalar os Componentes do Material
 9. Componente Cabeçalho
+10. Componente Rodapé
