@@ -12,3 +12,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 3. Visão Geral do Angular
 4. Conceitos Essenciais
 5. Criando APP com o Angular CLI
+6. Conhecendo os Arquivos do Projeto
