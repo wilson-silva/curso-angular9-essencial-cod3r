@@ -14,3 +14,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 5. Criando APP com o Angular CLI
 6. Conhecendo os Arquivos do Projeto
 7. HTML do AppComponent
+8. Instalar os Componentes do Material
