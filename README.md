@@ -18,3 +18,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 9. Componente Cabeçalho
 10. Componente Rodapé
 11. Componente de Navegação
+12. Elementos do Angular #01
