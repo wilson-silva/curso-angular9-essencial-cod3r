@@ -19,3 +19,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 10. Componente Rodapé
 11. Componente de Navegação
 12. Elementos do Angular #01
+13. Elementos do Angular #02
