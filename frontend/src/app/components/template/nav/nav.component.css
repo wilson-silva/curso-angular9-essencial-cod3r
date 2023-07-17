@@ -3,7 +3,7 @@
     width: 200px;
 }
 
-.sidenav a{
+.sidenav a {
     color: #FFFF;
 }
 
@@ -11,3 +11,8 @@
     padding-right: 10px;
 }
 
+.content {
+    padding: 16px;
+    background-color: #FFF;
+
+}
