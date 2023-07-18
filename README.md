@@ -22,3 +22,5 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 13. Elementos do Angular #02
 14. Elementos do Angular #03
 15. Componente Início (Home)
+16. Navegando entre Componentes
+17. Diretivas na prática #01

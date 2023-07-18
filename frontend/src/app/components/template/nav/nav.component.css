@@ -5,6 +5,7 @@
 
 .sidenav a {
     color: #FFFF;
+    text-decoration: none;
 }
 
 .sidenav i {
@@ -16,3 +17,4 @@
     background-color: #FFF;
 
 }
+
