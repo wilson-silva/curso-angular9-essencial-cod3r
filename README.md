@@ -28,3 +28,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 19. Componente criar produto
 20. Bindings
 21. Navegar para tela de criar produtos
+22. Produto modelo
