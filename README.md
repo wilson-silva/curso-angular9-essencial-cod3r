@@ -25,3 +25,6 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 16. Navegando entre Componentes
 17. Diretivas na prática #01
 18. Diretivas na prática #02
+19. Componente criar produto
+20. Bindings
+21. Navegar para tela de criar produtos
