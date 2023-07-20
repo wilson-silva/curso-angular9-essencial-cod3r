@@ -7,12 +7,12 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 
 ## Aulas Concluídas
 
-1. Introdução do Curso
+1. Introdução do curso
 2. Backend com JSON Server
-3. Visão Geral do Angular
-4. Conceitos Essenciais
+3. Visão geral do Angular
+4. Conceitos essenciais
 5. Criando APP com o Angular CLI
-6. Conhecendo os Arquivos do Projeto
+6. Conhecendo os arquivos do projeto
 7. HTML do AppComponent
 8. Instalar os Componentes do Material
 9. Componente Cabeçalho
@@ -21,7 +21,7 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 12. Elementos do Angular #01
 13. Elementos do Angular #02
 14. Elementos do Angular #03
-15. Componente Início (Home)
+15. Componente início (Home)
 16. Navegando entre Componentes
 17. Diretivas na prática #01
 18. Diretivas na prática #02
@@ -29,3 +29,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 20. Bindings
 21. Navegar para tela de criar produtos
 22. Produto modelo
+23. Produto Service
