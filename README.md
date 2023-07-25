@@ -33,3 +33,5 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 24. Método criar produto
 25. Formulário criar produto
 26. Componente Obter Produto
+27. Exibindo produtos com *ngFor
+
