@@ -36,3 +36,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 27. Exibindo produtos com *ngFor
 28. Gerando Componente tabela
 29. Entendendo Componente gerado
+30. Tabela Produtos
