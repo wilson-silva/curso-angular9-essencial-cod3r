@@ -39,3 +39,5 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 30. Tabela Produtos
 31. Adicionando coluna ações
 32. Novos métodos em produto service
+33. Componente atualizar produto #01
+
