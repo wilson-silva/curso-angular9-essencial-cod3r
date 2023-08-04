@@ -38,5 +38,10 @@ baseUrl =  "http://localhost:3001/products"
     const url = `${this.baseUrl}/${product.id}`
     return this.http.put<Product>(url, product)
   }
+
+  delete(id: String): Observable<Product>{
+    const url = `${this.baseUrl}/${id}`
+    return this.http.delete<Product>(url)
+  }
   
 }
