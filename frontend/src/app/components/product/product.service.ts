@@ -29,7 +29,7 @@ baseUrl =  "http://localhost:3001/products"
     return this.http.get<Product[]>(this.baseUrl)
   }
 
-  readById(id: String): Observable<Product>{
+  readById(id: number): Observable<Product>{
     const url = `${this.baseUrl}/${id}`
     return this.http.get<Product>(url)
   }
@@ -39,7 +39,7 @@ baseUrl =  "http://localhost:3001/products"
     return this.http.put<Product>(url, product)
   }
 
-  delete(id: String): Observable<Product>{
+  delete(id: number): Observable<Product>{
     const url = `${this.baseUrl}/${id}`
     return this.http.delete<Product>(url)
   }

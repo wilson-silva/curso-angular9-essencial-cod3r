@@ -43,4 +43,6 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 34. Componente atualizar produto #01
 35. Desafio método excluir produto
 36. Desafio método excluir produto - Resposta
+37. Desafio Componente excluir produto
+38. Desafio Componente excluir produto - Resposta
 
