@@ -45,4 +45,4 @@ https://www.cod3r.com.br/courses/angular-9-essencial
 36. Desafio método excluir produto - Resposta
 37. Desafio Componente excluir produto
 38. Desafio Componente excluir produto - Resposta
-
+39. Exibindo as mensagens de erro
